@@ -1,0 +1,10 @@
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module 
+      fileurl="file://$PROJECT_DIR$/.idea_modules/Play Scala Scratch-build.iml" filepath="$PROJECT_DIR$/.idea_modules/Play Scala Scratch-build.iml" >
+</module>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/Play Scala Scratch.iml" filepath="$PROJECT_DIR$/.idea_modules/Play Scala Scratch.iml" ></module>
+    </modules>
+  </component>
+</project>
